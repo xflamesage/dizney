@@ -1,0 +1,106 @@
+#yipyipyo {
+	position: absolute;
+	color: white;
+	font-size: 300%;
+	font-family: 'Red Hat Display', sans-serif;
+	transform: translate(10%,75%);
+	text-align: left;
+}
+#hahadizneytrash {
+	width: 100%;
+	position: relative;
+}
+.placesh2 {
+	font-family: 'Rambla', sans-serif;
+	font-size: 170%;
+}
+#ulol {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 250%;
+}
+body {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	background-color: #024594;
+}
+#cringle {
+	font-family: 'Red Hat Display', sans-serif;
+	background-color: white;
+	border-radius: 20px;
+	padding: 10px;
+	color: black;
+	border: 2px solid black;
+	transform: translate(10%,600%);
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.phish {
+	text-decoration: underline;
+}
+#ipsucks {
+	width: 10%;
+	position: absolute;
+	filter: invert(100%);
+	transform: translate(-15%,20%);
+}
+ul,ol {
+	list-style-type: none;
+}
+#fakephish {
+	text-decoration: underline;
+}
+li {
+	padding: 5px;
+}
+#youarehobopage {
+	display: flex;
+}
+#youarehobopage > h2, #ipsucks {
+	position: absolute;
+}
+h1,h2,h3,li {
+	color: white;
+}
+#brick {
+	position: absolute;
+	color: white;
+	transform: translate(5%, 575%);
+	background-color: black;
+	border-color: white;
+	border-radius: 20px;
+	border: 2px solid white;
+	padding: 10px;
+	font-family: 'Red Hat Display', sans-serif;
+}
+#bricky {
+	color: white;
+}
+#heheboi {
+	display: flex;
+	flex-direction: row;
+	margin: 50px;
+}
+#placesssh {
+	margin: 50px;
+	transform: translate(25%,0%);
+}
+#placesh4 {
+	margin: 50px;
+	transform: translate(25%, 0%);
+}
+#placesh3 {
+	transform: translate(20%,5%);
+}
+#placesh5 {
+	transform: translate(20%,5%);
+}
+#islamophobia {
+	margin: 50px;
+}
+#jusks {
+	display: flex;
+	justify-content: space-evenly;
+}
